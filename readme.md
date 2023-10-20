@@ -1,2 +1,2 @@
 # Primeira API - Node.jsgit init
-simular um banco local e criar as principais requisições que uma API deve conter.
+simulação um banco local e com a criação das principais requisições que uma API deve conter.
