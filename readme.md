@@ -1,2 +1,2 @@
 # Primeira API - Node.js
-simulação um banco local e com a criação das principais requisições que uma API deve conter.
+simulação de um banco local com a criação das principais requisições que uma API deve conter.
